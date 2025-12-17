@@ -1,0 +1,944 @@
+JYP Entertainment ist eine südkoreanische Künstler- und Talentagentur sowie ein Plattenlabel
+== Geschichte ==
+Gegründet wurde JYP Entertainment im Jahre 1997 von Park Jin-Young
+== Unternehmensdaten ==
+Das Plattenlabel hat seinen Hauptsitz in Seoul
+Nebensitze existieren in Peking, Tokyo und New York City
+Mit einem Markenwert von 115,8 Millionen US-Dollar ist JYP Entertainment mittlerweile eines der wertvollsten Plattenlabels Südkoreas geworden
+== Tochtergesellschaften ==
+
+
+=== AQ Entertainment ===
+Das Sublabel AQ Entertainment wurde am 9
+Die gemanagten Künstler Miss A und Baek A-yeon werden seitdem direkt von JYP Entertainment gemanagt
+Tune Entertainment wurde im November 2007 von Rain gegründet und war ein Sublabel von JYP Entertainment
+Rain verließ das Label und unterschrieb bei Cube DC
+=== Studio J ===
+2015 gegründet
+== Liste der Künstler ==
+
+
+=== Aktive Künstler/Gruppen ===
+
+
+=== Ehemalige Künstler/Gruppen ===
+
+
+== Weblinks ==
+Offizieller Webauftritt
+
+
+== Einzelnachweise ==
+Das Tournament of Champions 2000 fand vom 27
+Februar 2000 in New York City in den Vereinigten Staaten statt
+Das Squashturnier der Herren war Teil der PSA World Tour 1999/00
+Jonathon Power verteidigte erfolgreich seinen Titel aus dem Vorjahr, als er im Endspiel Martin Heath mit 15:12, 15:11, 14:15 und 15:12 bezwang
+Es war sein dritter Titelgewinn bei diesem Turnier
+Das Teilnehmerfeld der Herrenkonkurrenz bestand aus 32 Spielern, davon waren acht Plätze für Qualifikanten vorgesehen
+Die 16 besten Spieler wurden gesetzt
+== Herren ==
+
+
+=== Setzliste ===
+
+
+=== Zeichenerklärung ===
+
+
+=== Ergebnisse ===
+
+
+== Weblinks ==
+Ergebnisse auf squashinfo
+Der Burgstall Schaumburg, auch Schauenburg oder Schaumberg genannt, ist eine abgegangene Gipfelburg auf einem 904 m ü
+NN hohen felsigen Gipfelplateau beim Kleinen Illing, 250 Meter über dem Tal der Loisach und etwa 1350 Meter südöstlich der Kirche in Ohlstadt im Landkreis Garmisch-Partenkirchen in Bayern
+== Geschichte ==
+Vermutlich wurde die Burg von den Grafen von Ohlstadt um 1100 erbaut
+1096 wurde ein Rudolf von Owelstadt, Ministeriale der Grafen von Andechs, bei einem Rechtsstreit mit dem Bischof von Freising erwähnt
+Nach der Abtretung der Burg zusammen mit den Burgen Eschenlohe und Werdenfels 1294 an das Hochstift Freising meldete 1347–1348 ein Leuthold von Schenkenau den Wiederaufbau der „zerprochen Feste Schönwenperch“
+1362 sind die begüterten Herren von Camer (Schloss Hohenkammer) als Besitzer (Nebenbesitz) der Burg verbürgt
+1414 wurde die Burg nach elfwöchiger Belagerung durch Münchner Schützen und einen Haufen Söldner nach langjährigem Rechtsstreit zerstört
+1415 besetzte der Räuberhauptmann Schneeberger mit seiner Bande die Ruine und wurde wegen Plünderung vorüberziehender Kaufleute und Flößer 1417 von den Murnauern geköpft
+1482 wurde die Burg bereits als Burgstall bezeichnet
+1485 kam sie an Oswald von Weich und wurde 1493 zusammen mit der Hofmark Ohlstadt an das Stift von Schlehdorf veräußert
+1880 wurden die letzten Reste abgetragen
+Die ehemalige, zum Teil aus dem Felsen gehauene Burganlage auf einem Burgplateau mit rechtwinklig behauenem Fels enthält noch Reste einer in den Felsen gehauenen Treppe und der Umfassungsmauer
+== Literatur ==
+Michael Weithmann: Ritter und Burgen in Oberbayern: Streifzüge ins mittelalterliche Land zwischen Alpen, Donau, Lech und Salzach
+Bayerland Verlag, Dachau 1999, ISBN 3-89251-276-0, S
+Herausgegeben vom Bezirk Oberbayern, München 1995, S
+Heinrich Spichtinger: Die Schaumburg bei Ohlstadt
+Neue archäologische Funde aus dem Werdenfelser Land und dem Oberen Loisachtal
+Heinrich Spichtinger: Der unterirdische Gang der "Veste" Schaumburg bei Ohlstadt
+Neue archäologische Funde aus dem Werdenfelser Land und dem Oberen Loisachtal
+== Weblinks ==
+
+Schaumburg bei burgenwelt
+de
+Burgstall Schaumburg in der privaten Datenbank Alle Burgen
+Die Imaging & Microscopy ist eine europaweit im GIT Verlag erscheinende Fachzeitschrift mit Fokus auf Anwendungen und Produkten rund um das Thema Bildverarbeitung, Mikroskopie und andere Abbildungsverfahren sowie das methodische Umfeld im Labor, wie  Probenpräparation und Probenhandling
+Ständige Rubriken der Zeitschrift sind Licht-, Elektronen- und Rastersondenmikroskopie, digitale Bildanalyse sowie visualisierte Elementanalyse
+Imaging & Microscopy erscheint auf Englisch viermal jährlich in einer Auflage von 18
+Die Zeitschrift ist offizielles Organ der European Microscopy Society (EMS)
+== Weblinks ==
+Website beim Verlag
+
+
+== Einzelnachweise ==
+Eine Master-Slave-Steckdose ist eine Steckdosenleiste, welche die Slave-Steckdosen einschaltet, wenn der entnommene Strom an der Master-Steckdose einen gewissen Schwellenwert überschreitet
+Sie werden zum Komfortgewinn eingesetzt, um mit einem Gerät weitere Geräte einzuschalten
+Früher sparte dies auch Energie ein, heute ist der Standbyverbrauch durch die Ökodesign-Richtlinie der EU vernachlässigbar
+== Steuerung ==
+In Master-Slave-Steckdosen ist eine elektronische Schaltung mit zugehörigem Netzteil eingebaut
+Eine Schaltung erfasst den Strom, der über die Master-Steckdose fließt
+Erst wenn ein bestimmter Grenzwert der Stromstärke überschritten wird, schaltet sie die Slave-Steckdosen ein
+Wenn der Grenzwert wieder unterschritten wird, schaltet sie die Slave-Steckdosen aus
+Typischerweise wird der Schaltgrenzwert bei einer Leistung von 10 bis 15 Watt erreicht
+Die über die Master-Steckdose entnehmbare Leistung ist in der Regel eng begrenzt, beispielsweise auf 500 Watt
+Es gibt auch USB-Master/Slave-Steckdosen, die einschalten, wenn der USB-Stecker mit Strom versorgt wird, und solche, die man mit entsprechender Software über den USB-Port steuern kann
+Bei einigen Master-Slave-Steckdosen kann der Schaltgrenzwert eingestellt werden
+Dies ermöglicht ihre Anpassung an Geräte, die besonders wenig Energie verbrauchen oder selbst dann viel Energie verbrauchen, wenn sie ausgeschaltet sind
+Einige Modelle sind zusätzlich mit einfachen Steckdosen ausgestattet, die unabhängig vom Master immer funktionieren
+Manchmal ist auch ein Schalter vorhanden, mit dem man die Master-Slave-Funktion abschalten kann und so eine gewöhnliche Mehrfachsteckdose erhält
+== Energieverbrauch ==
+Die Master-Slave-Steckdose selbst benötigt zumeist eine relativ geringe Leistung, sie sollte unter 0,9 W liegen, um die Steuerelektronik zu versorgen
+Da der Stromverbrauch älterer Geräte im Bereitschaftbetrieb oft deutlich über dem Eigenverbrauch der Master-Slave-Steckdose liegt, sparte diese früher Energie, sobald ein weiteres Gerät betrieben wird
+Durch eine Master-Slave-Steckdose wird allerdings mehr Energie verbraucht als mit einer konsequent angewandten Mehrfachsteckdose mit eingebautem Schalter
+Letztere verbraucht in ausgeschaltetem Zustand keine Energie für das Hauptgerät und die Steckdosenleiste selbst und ist in der Regel im Einkauf günstiger
+Die Master-Slave-Steckdose wird allerdings zu einer automatischen und deshalb bequemeren Alternative und ist auch ökologisch und ökonomisch immer optimal, wenn vor der Master-Slave-Steckdose zusätzlich eine (mit einer Taste zu programmierende) "Steckdose mit automatischer StandBy-Erkennung" verwendet wird, die den StandBy-Verbraucher und sich selbst nach einer Minute abschaltet; erst nach Drücken eines Tasters wird diese wieder bestromt
+Wird beim Master-Gerät eine Stand-By-Funktion gewünscht, weil das Gerät zeitgesteuerte Aktionen durchführen kann, ist eine Master-Slave-Steckdose eine optimale Ergänzung, um benötigte Zusatzgeräte einzuschalten
+Beispiele: HD-SAT-Receiver schaltet Festplatte hinzu oder ein Videorecorder schaltet einen DVB-Empfänger hinzu
+Suboptimal wäre es in diesem Fall, zusätzlich einen Fernseher über eine Slave-Steckdose einzuschalten – dieser gehört besser an eine schaltbare Mehrfachsteckdose
+Ein weiterer Anwendungsfall wäre ein PC, der als Master, und dessen zugehörige Geräte, welche als Slave eingesteckt werden
+Bildschirme, Lautsprecher und Drucker zusammen mit Inbetriebnahme des Rechners an und wieder aus
+Die Blaue Prunkwinde (Ipomoea nil) ist eine Pflanzenart aus der Gattung der Prunkwinden (Ipomoea) aus der Familie der Windengewächse (Convolvulaceae)
+Das Vorkommen der Pflanze ist pantropisch
+== Beschreibung ==
+Die Blaue Prunkwinde ist eine einjährige Kletterpflanze, die dicht bis verstreut mit langen Trichomen behaart ist
+Die fein behaarten Laubblätter sind eiförmig bis beinahe kreisförmig, 5 bis 14 cm lang
+Die Basis ist herzförmig, der Rand ist ganzrandig oder drei- bis fünfmal gelappt, die Blattlappen sind zugespitzt oder spitz zulaufend
+Die von Dezember bis Juli erscheinenden Blüten stehen einzeln bis zu fünft in oftmals dichten zymösen Gruppen, in denen fertig entwickelte Blüten und sich entwickelnde Knospen beieinander stehen
+Die lang borstig behaarten Kelchblätter haben eine Länge von 15 bis 25 mm, sie sind lang lanzettlich geformt und haben eine linealisch-lanzettliche Spitze
+Die Krone ist blau, violett oder nahezu scharlachrot
+Oftmals ist der Schlund weiß gefärbt
+Die Kronröhre hat eine Länge von 3 bis 5 cm, der Kronsaum hat eine Breite von 4 bis 5 cm
+Die Früchte sind nahezu kugelförmige bis kugelförmige Kapselfrüchte mit einem Durchmesser von 8 bis 12 mm
+Die Samen sind birnenförmig und dicht mit kurzen Trichomen besetzt
+Die Chromosomenzahl beträgt 2n = 30
+== Vorkommen ==
+Die Art ist pantropisch verbreitet und ist auch oft in Kultur zu finden
+== Systematik ==
+Die Blaue Prunkwinde wird innerhalb der Untergattung Ipomoea in die Serie Heterophyllae der Sektion Pharbitis eingeordnet (und zuweilen noch unter dem Synonym Pharbitis nil geführt)
+Die Art wird oftmals mit Ipomoea indica, Ipomoea hederacea oder Ipomoea purpurea verwechselt
+Ipomoea indica unterscheidet sich vor allem durch die breiten und weniger krautigen Kelchblätter, während Ipomoea purpurea spitz zulaufende und abgestumpfte Kelchblätter besitzt
+Die Unterscheidung von Ipomoea nil und Ipomoea hederacea ist deutlich schwieriger, bei letzterer sind jedoch die Kelchblätter etwas stärker verengt und stehen weiter ab oder sind zurückgerollt
+Austin: Flora of Panama, Part IX: Family 164
+In: Annals of the Missouri Botanical Garden
+Austin, Zósimo Huáman: A Synopsis of Ipomoea (Convolvulaceae) in the Americas
+== Weblinks ==
+
+36 alte japanische Zuchtformen auf Farbholzschnitten von Banka-en (1854)
+
+
+== Einzelnachweise ==
+Stefan Wul (eigentlich Pierre Pairault; geboren am 27
+März 1922 in Paris; gestorben am 26
+November 2003) war ein französischer Science-Fiction-Autor
+== Leben und Werk ==
+Pairault studierte zunächst Philosophie und Literaturwissenschaft, entschloss sich jedoch nach dem Examen, Zahnmedizin zu studieren
+Neben seinem Beruf als Zahnarzt, den er ab 1945 bis zum Ruhestand 1989 ausübte, schrieb er in der zweiten Hälfte der 1950er Jahre elf Romane, mit denen er sich vor allem im französischsprachigen Raum einen Namen machte und bis heute Kultstatus genießt
+Zwei seiner Werke dienten als Vorlage für bekannte Science-Fiction-Filme
+Von dem französischen Regisseur René Laloux und unter Mitwirkung bekannter Künstler wie Jean 'Moebius' Giraud und Roland Topor wurden Oms en série als Der wilde Planet (Der phantastische Planet in der deutschen Fassung) und L’orphelin de Perdide (deutsch als Herrscher der Zeit) als Zeichentrickfilme umgesetzt
+La Planète sauvage wurde 1975 für den Nebula Award nominiert
+1977 erschien sein letztes Werk, der Roman Noô, der 1986 mit dem Prix Julia-Verlanger ausgezeichnet wurde
+Außerdem wurden ab 2012 eine ganze Reihe seiner Werke als Comic adaptiert
+Der Asteroid (213800) Stefanwul wurde 2010 nach ihm benannt
+== Bibliografie ==
+Romane
+Retour à « 0 » (1956)
+Deutsch: Inferno Mond
+Niourk (1957, auch: Gallimard, Paris 2001, ISBN 2-07-041953-3)
+Rayons pour Sidar (1957, auch: Gallimard, Paris 2007, ISBN 978-2-07-034547-2)
+La Peur Géante (1957, auch: Denoël, Paris 1997, ISBN 2-207-24735-X)
+Oms en Série (1957, auch: Gallimard, Paris 2000, ISBN 2-07-041560-0)
+Le Temple du passé (1957, auch: Denoël, Paris 1996, ISBN 2-207-50577-4)
+L'Orphelin de Perdide (1958, auch: Denoël, Paris 1993, ISBN 2-207-50536-7)
+La Mort vivante (1958, auch: Presses Pocket, Paris 1979, ISBN 2-266-00628-2)
+Piège sur Zarkass (1958, auch: Denoël, Paris 1996, ISBN 2-207-50576-6)
+Terminus 1 (1959, auch: Denoël, Paris 1994, ISBN 2-207-50570-7)
+Odyssée sous contrôle (1959, auch: Denoël, Paris 1993, ISBN 2-207-50561-8)
+Noô (1977, auch: Gallimard, Paris 2002, ISBN 2-07-042278-X)
+Kurzgeschichten
+Le bruit (1957)
+Échec au plan 3 (1958)
+Expertise (1958)
+Il suffit d'un rien … (1958)
+Jeux de vestales (1960)
+Deutsch: Spiele der Vestalinnen
+): Die Stimme des Wolfs: Science Fiction-Erzählungen aus Frankreich
+Heyne Science Fiction & Fantasy #3482, 1976, ISBN 3-453-30361-X
+Gwendoline (1961)
+L'archange (1982)
+Le loup botté (1996)
+Werke
+Œuvres (1970)
+Œuvres complètes (1996/1997, 2 Bände)
+L’intégrale (2013–2014, 4 Bände)
+
+
+== Adaptionen ==
+Verfilmungen
+René Laloux (Regie): Der phantastische Planet
+1973 (nach dem Roman Oms en Série)
+René Laloux (Regie): Herrscher der Zeit
+1982 (nach dem Roman L'orphelin de Perdide)
+Comics
+Niourk (deutsch als Nuork beim All Verlag)
+1 L'Enfant noir (2012)
+2 La ville (2013)
+3 Alpha (2015)
+Oms en série
+1 Terr, sauvage (2012)
+2 L'Exom (2013)
+3 La Vielle-Terr (2017)
+La peur géante
+1 La révolte des océans (2013)
+2 L'ennemi des profondeurs (2015)
+3 La guerre des abysses (2016)
+Piège sur Zarkass
+1 Une chenille pour deux (2013)
+2 New Pondichery mon amour (2013)
+3 Gaïa, go home ! (2014)
+Le temple du passé
+1 Entrailles (2014)
+2 Envol (2015)
+Rayons pour Sidar
+1 Lorrain (2014)
+2 Lionel (2015)
+Retour à zéro (2015)
+Odyssée sous contrôle (2016)
+Terminus 1
+1 L'Homme à la valise (2016)
+2 Le Fruit défendu (2016)
+La mort vivante (2018) (deutsch als Die lebende Tote bei Splitter)
+L'Orphelin de Perdide
+1 Claudi (2018)
+2 Silbad (2019)
+
+
+== Literatur ==
+Hans Joachim Alpers, Werner Fuchs, Ronald M
+Reclam, Stuttgart 1982, ISBN 3-15-010312-6, S
+Hans Joachim Alpers, Werner Fuchs, Ronald M
+Hahn, Wolfgang Jeschke: Lexikon der Science Fiction Literatur
+Heyne, München 1991, ISBN 3-453-02453-2, S
+Maxim Jakubowski, John Clute: Wul, Stefan
+In: John Clute, Peter Nicholls: The Encyclopedia of Science Fiction
+Robert Reginald: Science Fiction and Fantasy Literature
+A Checklist, 1700–1974 with Contemporary Science Fiction Authors II
+Gale, Detroit 1979, ISBN 0-8103-1051-1, S
+== Weblinks ==
+Stefan Wul in der Internet Speculative Fiction Database (englisch)
+Stefan Wul bei IMDb
+Literatur von und über Stefan Wul im Katalog der Deutschen Nationalbibliothek
+Stefan Wul auf nooSFere (französisch)
+Stefan Wul in der Science Fiction Awards+ Database (englisch)
+Werke von Stefan Wul bei Open Library
+Stefan Wul auf rocbo
+Fredrik Risp (Lars Fredrik Risp, geb
+Dezember 1980 in Lysekil) ist ein schwedischer Fußballspieler
+== Werdegang ==
+Risp begann mit dem Fußballspielen in seinem Heimatort bei Lysekils FF
+1998 schloss er sich IFK Göteborg an, wo er sieben Spielzeiten in der Allsvenskan aktiv war
+Diese Zeit wurde durch einen Aufenthalt bei Chievo Verona zwischen Januar und Juni 2003 unterbrochen
+Nach Ende der Spielzeit 2005 wechselte er in die Türkei zum Erstligisten Gençlerbirliği Ankara
+Im Januar 2007 ging er zusammen mit dem Mannschaftskollegen Ayman Abdelaziz zum Ligakonkurrenten Trabzonspor
+Nachdem Trabzonspor ihm kein Gehalt mehr bezahlt hatte, wechselte er ablösefrei zum Ligakonkurrenten Ankaraspor
+2009 kehrte er auf Leihbasis nach Nordeuropa zum amtierenden norwegischen Meister Stabæk Fotball zurück
+Risp kam bisher zu drei Einsätzen in der schwedischen Nationalmannschaft
+== Weblinks ==
+Fredrik Risp in der Datenbank von weltfussball
+Feldartillerie-Regiment „Prinzregent Luitpold“ war ein Artillerieverband der Bayerischen Armee
+== Geschichte ==
+Das Regiment wurde am 11
+Oktober 1824 errichtet und war Teil der 1
+November 1839 Prinz Luitpold von Bayern, der spätere Prinzregent
+Dessen Namen führte das Regiment als Zusatz
+Juni 1916 ging die Inhaberschaft auf Rupprecht von Bayern über
+Feldartillerie-Regiment bildete es ab Oktober 1900 die 1
+=== Erster Weltkrieg ===
+Zu Beginn des Ersten Weltkriegs war das Regiment als Teil der Divisionsartillerie der 1
+Weitere Stationen des Regiments im Verlauf des Krieges sind mit denen der Division identisch
+=== Verbleib ===
+Nach Kriegsende marschierte das Regiment nach München zurück, wurde dort ab 22
+Dezember 1918 demobilisiert und schließlich aufgelöst
+Aus Teilen bildete sich die Volkswehr-Batterie von Hallberg
+Diese wurde mit Bildung der Vorläufigen Reichswehr zur 5
+Die Tradition übernahm in der Reichswehr durch Erlass des Chefs der Heeresleitung General der Infanterie Hans von Seeckt vom 24
+In der Wehrmacht führte das Artillerieregiment 7 die Tradition fort
+== Kommandeure ==
+Bis 1872 führten die Kommandeure die Bezeichnung Oberstkommandant
+== Regimentsmärsche ==
+Präsentiermarsch: Parademarsch der Königl
+Grenadier Garde (AM I, 103) von Wilhelm Legrand
+1 (AM III, 51) von Julius Möllendorf
+Parademarsch im Trab: Trabmarsch nach Motiven des Balletts Giselle von Adolphe Charles Adam (AM III, 33) von Albert Lorenz
+Parademarsch im Galopp: Leicht zu Fuß (Light Of Foot) von Carl Latann
+== Literatur ==
+Militär-Handbuch des Königreiches Bayern
+Konrad Krafft von Dellmensingen, Friedrichfranz Feeser: Das Bayernbuch vom Weltkriege 1914–1918
+Rudolf Ritter von Xylander: Geschichte des 1
+Schick, München 1931 (Digitalisat der Württembergischen Landesbibliothek)
+== Weblinks ==
+
+Totenliste Erster Weltkrieg (bei www
+Belle Center ist ein Village im Logan County, Ohio, USA mit 809 Einwohnern (Stand: Volkszählung 2020)
+Der Ort liegt im Richland Township im Norden von Logan County und hat eine Fläche von 1,8 km², wovon 1,43 % Wasserfläche sind
+Der Ort wurde im Jahre 1851 gegründet
+== Weblinks ==
+
+Statistiken und Karten bei city-data
+Manju (Nanjangud Shivananju Manju; * 9
+Mai 1987 in Nanjangud, Karnataka) ist ein indischer Fußballspieler
+Er steht seit 2007 bei Mohun Bagan AC in der I-League, der höchsten indischen Spielklasse, unter Vertrag
+== Karriere ==
+Manju begann seine Karriere im Jahr 2003 in der I-League Second Division bei Hindustan Aeronautics Limited SC, für dessen Mannschaft der Abwehrspieler bis 2004 unter Vertrag stand, danach wechselte er für drei Jahre zu Mahindra United in die höchste indische Spielklasse
+In der Spielzeit 2005/06 wurde er mit Mahindra indischer Meister
+Im Jahr 2007 transferierte er zum Ligakonkurrenten Mohun Bagan AC, für dessen Team er seither aufläuft
+2009 bekam er den FPAI Awards als bester Spieler Indiens, zusammen mit Sunil Chhetri und Anthony Pereira
+== Nationalmannschaft ==
+Seit 2005 steht Manju im Kader der indischen Fußballnationalmannschaft seit der Tour der Nationalmannschaft in Pakistan
+Er gewann mit seinem Nationalteam den Nehru Cup 2007
+Nach einer Verletzung an der Achillessehne im South-Asian-Football-Federation-Cup konnte er nicht am AFC Challenge Cup 2008 teilnehmen, den Indien für sich entschied und sich somit für die Fußball-Asienmeisterschaft 2011 qualifizierte
+Er nahm auch 2009 am Trainingscamp für den Nehru Cup 2009 in Barcelona teil, aber sofort im ersten Spiel gegen Libanon verletzte er sich schwer und musste dadurch auf den restlichen Teil des Nehru Cups 2009, auf das IFA Shield, den Durand Cup und auch den Federations Cup verzichten
+Bisher bestritt er 21 Länderspiele und schoss dabei zwei Tore
+Manju in der Datenbank von transfermarkt
+Manju in der Datenbank von weltfussball
+Manju in der Datenbank von National-Football-Teams
+Valdez Venita „Val“ Demings (* 12
+März 1957 in Jacksonville, Florida) ist eine US-amerikanische Politikerin
+Januar 2017 vertritt sie den Bundesstaat Florida im US-Repräsentantenhaus
+== Werdegang ==
+Val Butler, so ihr Geburtsname, ist eines von sieben Kindern einer armen afroamerikanischen Familie
+In ihrer Jugend besuchte sie noch Schulen, die nach Rassen getrennt waren
+Nach der Highschool studierte sie zwischen 1976 und 1979 an der Florida State University das Fach Kriminologie
+Danach besuchte sie die Webster University
+Seit 1984 war sie im Polizeidienst der Stadt Orlando tätig
+Dort stieg sie im Jahr 2007 als erste Frau zur Leiterin dieser Behörde auf
+Dieses Amt bekleidete sie bis 2012
+Politisch schloss sich Demings der Demokratischen Partei an
+Im Jahr 2012 kandidierte sie noch erfolglos für den Kongress
+Bei den Kongresswahlen des Jahres 2016 wurde sie dann aber im zehnten Wahlbezirk von Florida in das US-Repräsentantenhaus in Washington, D
+Januar 2017 die Nachfolge des Republikaners Daniel Webster antrat, der in den elften Distrikt wechselte
+Im August 2022 setzte sie sich bei den Vorwahlen zur Senatswahl  2022 durch und war damit als Herausforderin des republikanischen Senators Marco Rubio im November 2022 gesetzt
+Demings, dem Bezirksbürgermeister von Orange County, hat sie drei Kinder
+== Weblinks ==
+Biographie beim Project Vote Smart
+Biographie bei Ballotpedia
+
+Val Demings im Biographical Directory of the United States Congress (englisch)
+
+
+== Einzelnachweise ==
+März 1951 in Syracuse, New York; † 22
+März 2000 in Williamsburg, Brooklyn, ebenda) war ein US-amerikanischer Künstler, der vor allem mit seinen in Handarbeit gefertigten Soziogrammen bekannt wurde, die politisch-ökonomische Machtstrukturen in ästhetisch aufbereiteter Form darstellen
+== Leben ==
+Während seines Studiums der Kunstgeschichte an der Syracuse University wurde mit der Watergate-Affäre sein Interesse an politischen Skandalen geweckt
+In Houston arbeitete er 1975 am Museum for Contemporary Arts als Assistent von Direktor Jim Harithas
+Ab 1976 war Lombardi als Bibliothekar in einer öffentlichen Bücherei tätig
+Er abonnierte bis zu fünf Tageszeitungen und las mehrere Bücher pro Woche, mit Vorliebe solche von Investigativ-Journalisten wie Pete Brewton (The Mafia, CIA & George Bush, 1992) oder Jonathan Kwitny (The Crimes of Patriots: A True Tale of Dope, Dirty Money and the CIA, 1987), die nach jahrelanger Recherche und mitunter großen persönlichen Risiken Skandale in Politik und Wirtschaft aufdeckten
+Lombardi durchforstete dabei in der Regel Inhaltsverzeichnisse der Bücher, entnahm die Namen der Schlüsselpersonen und übertrug Aktivitäten auf Karteikarten
+Zu Lebzeiten sammelte Mark Lombardi ungefähr 14
+Lombardis Recherchen wurden immer zeit- und arbeitsintensiver und mündeten bald in erste Skizzen und schließlich in grafische Großformate
+Seine Informationen bezog er aus Gründen der Glaubwürdigkeit und zu seiner Sicherheit ausschließlich aus öffentlich zugänglichen Medien
+Lombardis Arbeiten wurden einem immer größeren Publikum bekannt
+Im Jahr 2000 sollten sie auch in großen und bekannten Galerien und Museen in New York ausgestellt werden
+Nur wenige Wochen vor der Ausstellung im New Yorker Museum PS 1 wurde sein Meisterwerk BCCI–ICIC & FAB, 1972–1991 durch das Anspringen der Sprinkleranlage seines Ateliers, dessen Hintergründe nie geklärt wurden, zerstört
+Er arbeitete eine Woche lang Tag und Nacht, um das Werk wiederherzustellen, damit es doch noch auf der Ausstellung gezeigt werden konnte
+Drei Wochen nach dem Ereignis mit der Sprinkleranlage, also wenige Tage nach der Ausstellung, fand man Mark Lombardi erhängt in seinem Atelier
+Seine damalige Lebensgefährtin sagte in einem Interview, Mark hätte zur Rekonstruktion des BCCI-Bildes nicht unerhebliche Mengen Paracetamol eingenommen und kaum geschlafen
+Nach dem Fund seines Leichnams durften seine Eltern zwei Mal zu ihm, wobei der Mutter auffiel, dass einige Gegenstände und die Nachrichten auf seinem Anrufbeantworter verschwunden waren
+Der Gerichtsmediziner und die Polizei ordneten Lombardis Tod als Suizid ein
+Heute ist bekannt, dass Lombardi längere Zeit von der US-Bundespolizei FBI überwacht worden ist und Drohanrufe erhalten hat
+== Soziogramme ==
+Seine detailliert gezeichneten Diagramme über politische Machtstrukturen, Finanzintrigen und Skandale hielt er stets auf dem Laufenden
+Beispiele hierfür sind etwa die Verflechtungen von BCCI, Lincoln Savings, World Finance Corporation, die Vatican Bank, Opus Dei, Silverado Savings, George W
+Die revolutionäre künstlerische Innovation bestand in der ästhetischen Veranschaulichung komplexer Machtstrukturen und mafiöser Netzwerke
+Schon auf den ersten Blick kann man klare Strukturen zwischen den verschiedenen Institutionen und Personen erkennen
+Die Soziogramme bestehen zum Teil aus bis zu dreihundert Namen aus dem Umfeld wie auch dem inneren Kreis bekannter Konzerne einschließlich politischer und terroristischer Netzwerke
+Pfeile stellen die Verbindungen der Personen zueinander dar
+Für die meist kurvenförmigen Verbindungen verwendete er eine Schablone
+Kurze Hinweise und Angaben ergänzen Namen und Pfeile
+Schwarze Linien markieren den allgemeinen Verlauf des Geschehens sowie wirtschaftliche Transaktionen, rote Markierungen stehen für Klagen, Bestechungen und kriminelle Handlungen
+Lombardi nannte seine Diagramme „narrative structures“
+Das National Security Archive in Washington und die internationale Antikorruptionsagentur Transparency International mit Sitz in Berlin äußerten Interesse an Lombardis Nachlass
+== Zitate ==
+Dass der Mann kein Verschwörungstheoretiker war, sondern im Gegenteil detektivisch genau recherchierte, beweist die Wirkung seiner Bilder
+Ein Journalist des Wall Street Journal, der über die Bush-bin-Laden-Connection recherchierte, soll geschlagene vierzig Minuten vor einer Grafik Lombardis verbracht haben und immer wieder »Oh, mein Gott« gemurmelt haben
+Auf Lombardis Visitenkarte stand: »Todesverachtende Akte der Kunst und der Verschwörung«
+== Publikation ==
+Lombardi, Mark: Global Networks
+Independent Curators International (ICI), New York 2002, ISBN 0-916365-67-0
+== Literatur ==
+Girst, Thomas: Malen nach Skandalen
+: Girst wie Liebs vertreten die offizielle Selbstmordversion
+)
+Lammert, Angela: Mark Lombardi – Denken als Mustererkennung
+), Räume der Zeichnung, Nürnberg 2007, ISBN 3-939738-10-7, S
+Pollux, Lombardi und die Zeichen der ökonomischen Verschwörung
+In: Marcus Krause, Arno Meteling, Markus Stauff (Hrsg
+Zur Mediologie der Verschwörung, Fink, Paderborn 2011, ISBN 978-3-7705-4906-1, S
+Gießmann, Sebastian: Die Öffentlichkeit der Verschwörung
+Ästhetik und politische Ökonomie bei Mark Lombardi
+Das Öffentliche in der Kunst, Transcript, Bielefeld 2012, ISBN 3-8376-1673-8, S
+== Filme ==
+Mark Lombardi – Kunst und Konspiration
+, Buch und Regie: Mareike Wegener, Produktion: Titus Kreyenberg, unafilm, Kinostart: 31
+Januar 2014 bei arte in 55 Min
+Konspirative Kunst: Ein Film über Leben und Werk des Mark Lombardi
+Fernseh-Reportage, Deutschland, 2012, Produktion: 3sat, Redaktion: kulturzeit, Erstsendung: 6
+Juni 2012 bei 3sat, Inhaltsangabe von 3sat, (Memento vom 10
+== Weblinks ==
+Galerie von Lombardis Soziogrammen
+In: Pierogi Gallery, New York
+Towards the complete Mark Lombardi digital
+In: Mark Lombardi Networks
+Besprechung der Zeichnung: „George W
+Bush, Harken Energy and Jackson Stephens c
+com • arts & context & listings, Winter 2001/02, und als (PDF; 19 S
+Januar 2013 im Internet Archive)
+Nachruf
+März 2000, (englisch)
+Lombardis Ausstellungen und Exhibitions
+
+
+== Einzelnachweise ==
+Das chinesische Gesundheitssystem umfasst öffentliche Krankenhäuser, Krankenhäuser unter gemeinnütziger Trägerschaft, primäre Gesundheitseinrichtungen und Facheinrichtungen
+Nachdem die VR China in den 1970er Jahren eine bezüglich der Patienten-Ärzte-Relation relativ vorbildliche (jedoch nicht evidenzbasierten Standards entsprechende) Gesundheitsversorgung hatte, die vor allem für die Barfußärzte bekannt war, hatten gegen Ende der 1990er Jahre aufgrund der Reformen nur noch ungefähr 5 % der ländlichen Bevölkerung Zugang zum Gesundheitswesen
+Diese Fehlentwicklung soll nun bis zum Jahr 2020 behoben werden und die gesamte Bevölkerung Zugang zu einer rudimentären Gesundheitsversorgung erhalten
+Dezember 2019 wurde ein Gesetz zur grundlegenden Gesundheitsversorgung und Förderung der Gesundheit vom Ständigen Ausschuss des Nationalen Volkskongress verabschiedet
+Die COVID-19-Pandemie, die in der chinesischen Stadt Wuhan ausgebrochen war, zeigt wie dringlich Reformen im Gesundheitssektor sind
+== Statistische Angaben ==
+Im Jahr 2016 wurde von der Kommunistischen Partei Chinas und vom Staatsrat der Plan Healthy China 2030 veröffentlicht
+Nach diesem Plan wird die Lebenserwartung für das Jahr 2015 auf 76,34 Jahre beziffert; sie soll bis zum Jahr 2030 auf 79 Lebensjahre steigen
+Die Säuglingssterblichkeit fiel auf 0,81 % pro 100
+000 Lebendgeburten bis zum Jahr 2015 und soll auf 0,5 % bis zum Jahr 2030 gesenkt werden
+Diese Indikatoren zeigen – so der Plan Healthy China 2030, dass China kein Entwicklungsland mehr sei; bis zum Jahr 2020 will die VR China bei den Indikatoren zu Ländern mittleren und höheren Einkommen aufschließen
+Hinderlich an diesem Ziel sind Wohlstandskrankheiten, die drastisch zugenommen haben
+== Organisation ==
+
+Auf nationaler Ebene war bis März 2018 die Staatliche Kommission für Gesundheit und Familienplanung für das Gesundheitswesen zuständig, welche unter dem Staatsrat angesiedelt war und als Ministerium galt
+Mit der Reform der Staatsorgane im März 2018 wurde die Zuständigkeit für die Gesundheitsversorgung auf die Nationale Gesundheitskommission (chinesisch 国家卫生健康委员会, Pinyin Guójiā wèishēng jiànkāng wěiyuánhuì) übertragen, die ebenfalls unter dem Staatsrat als Ministerium angesiedelt ist
+Darüber hinaus existiert nun ein Nationales Amt für medizinische Versorgung (chinesisch 国家医疗保障局, Pinyin Guójiā yīliáo bǎozhàng jú), welches direkt unter dem Staatsrat steht
+In der VR China werden 90 % der Krankenbehandlungen in Krankenhäusern durchgeführt, so dass es fast keine freien Ärzte gibt, d
+für jede kleine Erkrankung wird das Krankenhaus aufgesucht
+000 Kliniken für traditionelle chinesische Medizin, 36
+Insgesamt verfügte die Volksrepublik China 2016 über 7 Millionen Krankenhausbetten
+Die chinesischen Krankenhäuser werden in drei Klassen unterteilt
+Die Krankenhäuser der Versorgungsstufe eins finden sich in Städten und Kommunen mit einfacher Ausstattung und besitzen bis zu 100 Betten
+Krankenhäuser der Versorgungsstufe zwei liegen auf überregionaler Ebene
+Diese Krankenhäuser sind dafür ausgestattet, anspruchsvolle Operationen durchzuführen
+Sie verfügen über 100 bis 500 Betten
+Krankenhäuser der Versorgungsstufe drei liegen in Großstädten
+Sie sind hervorragend ausgestattet – häufig mit internationalen Geräten – und bieten für mehr als 500 Patienten Platz
+== Finanzierung ==
+Von 1978 bis 2015 hat sich der prozentuelle Anteil der gesamten staatlichen Ausgaben bei den Gesundheitsausgaben von 3 % auf circa 6 % verdoppelt
+Im Jahr 2017 zahlte der Staat 4
+097,465 Milliarden Renminbi in das Gesundheitssystem
+Gesundheitsdienstleister erhalten in China Zahlungen aus drei Quellen: Verkauf von Medikamenten, private Zahlungen von Patienten, Krankenversicherungszahlungen und direkte staatliche Finanzierung
+=== Diagnosebezogene Fallgruppen ===
+Seit Beginn dieses Jahrhunderts experimentiert die VR China mit einem System Diagnosebezogener Fallgruppen
+In Beijing wird seit dem Jahr 2008 mit dem DRG-System experimentiert
+Die Einführung von DRG-Systemen hat zur Folge, dass die finanziell sinnvollste Kategorisierung im Vordergrund der medizinischen Behandlung steht
+Januar 2017 ist festgelegt, dass landesweit 100 Krankheiten über das DRG-System abzurechnen sind und in Zukunft 320 Krankheiten über DRGs abgerechnet werden sollen
+Außerdem werden für die einzelnen DRGs Preisobergrenzen festgelegt
+Für die Entwicklung eines ausgereiften DRG-Systems chinesischer Prägung fehlt es bisher an Datenbanken über Patienteninformation auf nationaler Ebene, die beispielsweise über Geschlecht, Alter und Grad der körperlichen Beeinträchtigung des Patienten Auskunft geben
+Ferner fehlen Informationssysteme über die Diagnose, Komplikationen, Operationen und deren Dauer sowie der Dauer des Krankenhausaufenthalts etc
+Bei der Einführung eines landesweiten DRG-Systems soll auf deutsche Erfahrungen zurückgegriffen werden
+== Bezahlung der Krankenhausärzte ==
+Das Gehalt von chinesischen Ärzten besteht aus einem Grundgehalt, Boni und weiteren Vergünstigungen
+Das Grundgehalt setzt sich aus Positionsgehalt, Alterszuschlag, Leistungszuschlag und staatlichem Zuschuss zusammen
+Die letztgenannten Zuschläge werden von der Staatlichen Kommission für Gesundheit und Familienplanung, dem Finanzministerium und dem Büro der Arbeitsbehörden festgelegt
+Eine nationale Gehaltsumfrage von der Staatlichen Kommission für Gesundheit und Familienplanung in städtischen Krankenhäusern der zweiten und dritten Stufe durchgeführt wurde, zeigt, dass das Grundgehalt nur 13–14 % des Gesamtgehalts vom medizinischen Personal in öffentlichen Krankenhäusern ausmacht
+Auf Leistungen und Zuschüsse entfallen 14 %
+Für leistungsbezogene Löhne und Gehälter sowie Boni, die an Krankenhausleistungen gekoppelt werden, sind es sogar 74 %
+Problematisch ist, dass Krankenhäuser autonom Zusatzzahlungen festlegen, für die es keine nationalen Standards gibt
+=== Gewalt gegen Ärzte ===
+Das Gehaltssystem muss reformiert werden, weil es zu Korruption einlädt
+Wer viel Geld für eine Behandlung ausgibt, hat einen hohen Erwartungshorizont bezüglich der Behandlungsergebnisse
+Werden diese nicht erfüllt, führt dies zu gewalttätigen Auseinandersetzungen zwischen Patienten und medizinischem Personal
+In der Agenda Healthy China 2030 wurde die Verbesserung des Gehaltssystems für medizinisches Personal aufgenommen und explizit die Gewalt gegen Ärzte als Problem definiert, welches es zu beheben gilt
+Eine Lösung soll ein Gehaltssystem nach internationalen Standards sein
+In dem Gesetz zur grundlegenden Gesundheitsversorgung und Förderung der Gesundheit wird Gewalt gegen Ärzte nochmals explizit unter Strafe gesetzt, aber ob diese rechtlichen Regelungen allein helfen, ist fraglich
+Vornehmlich muss das Gesundheitssystem selbst und die Kommunikation zwischen Patienten sowie Ärzten verbessert werden
+Januar 2021 wurde der Kardiologe Hu Shunyun um 9 Uhr morgens im Volkskrankenhaus des Kreises Jishui von jemandem mit mehreren Messerstichen verletzt
+Er starb kurz darauf an den Folgen
+Die Nationale Gesundheitskommission hat in diesem Fall auf ihrer Webseite direkt ihr tiefes Mitgefühl ausgedrückt
+=== Ärztemangel auf dem Land ===
+Ungeachtet einer Erhöhung der Bezüge zieht es Medizinstudenten, ähnlich wie in westlichen Staaten, nach ihrem Abschluss vor allem in die Großstädte
+Im April 2015 verabschiedete die chinesische Regierung ein Gesetz, welches die Einkommen und Renten von Landärzten neu regelt
+Zudem trat ein Förderprogramm in Kraft, um dem Ärztemangel in strukturschwachen Regionen entgegenzuwirken
+Angeboten werden unter anderem kostenfreie Ausbildungen für medizinische Kräfte in ländlichen Gebieten; Schulabgänger vom Land können zudem gratis ein Medizinstudium absolvieren, wenn sie sich verpflichten, nach dem Abschluss in ihrer lokalen Klinik zu arbeiten
+== Korruption im Gesundheitswesen ==
+Das chinesische Gesundheitssystem ist in vielen Bereichen korrupt
+Die Ärzte sind aufgrund ihrer geringen Bezahlung für Bestechung anfällig
+Ferner versuchen Pharmazieunternehmen, sich durch Korruption Vorteile zu verschaffen
+== Telemedizin ==
+In der Stadt Shenzhen existieren erste Versuche, den Arztbesuch zu digitalisieren
+Dazu existieren rote Zellen, vergleichbar mit Telefonzellen, in die der Patient geht, sich per Gesichtserkennung identifizieren lässt und durch eine künstliche Intelligenz zu seinen Beschwerden befragt wird
+Es erfolgt eine erste Diagnose, bevor sich ein menschlicher Arzt einschaltet
+== Siehe auch ==
+Sozialversicherung (VR China)
+Pharmaindustrie in China
+COVID-19-Pandemie in der Volksrepublik China
+
+
+== Weiterführende Literatur ==
+Burns, Lawton Robert / Liu, Gordon G
+, China’s Healthcare System and Reform, Cambridge University Press, 2017
+Meng, Qingyue / Yang, Hongwei / Chen, Wen / Sun, Qiang / Liu, Xiaoyun, People’s Republic of China
+Health System Review, World Health Organization, 2015
+Müller, Armin, China’s New Public Health Insurance, Routledge, 2018
+World Bank Group / World Health Organization / Ministry of Finance / National Health and Family Planning Commission / Ministry of Human Resources and Social Security: Deeping Health Reform in China
+Building High-Quality and Value-Based Service Delivery
+2015 wurde der Davis Cup zum 104
+16 Mannschaften spielten in der Weltgruppe um den Titel
+Großbritannien gewann das Finale gegen den Gastgeber aus Belgien mit 3:1
+Der britische Spitzenspieler Andy Murray blieb dabei wie schon in den Begegnungen zuvor ohne Niederlage und sorgte mit zwei Siegen im Einzel sowie einem Sieg im Doppel an der Seite seines Bruders Jamie für alle drei Punkte der Briten
+Für Großbritannien war es das erste Finale seit 1978 und der erste Titelgewinn seit 1936
+Belgien hatte erstmals nach 1904 wieder das Endspiel erreicht
+== Teilnehmer ==
+
+
+=== Weltgruppe ===
+
+
+=== Kontinentalgruppe I ===
+
+
+==== Amerikazone ====
+
+
+==== Europa-/Afrikazone ====
+
+
+==== Ozeanien-/Asienzone ====
+
+
+=== Kontinentalgruppe II ===
+
+
+==== Amerikazone ====
+
+
+==== Europa-/Afrikazone ====
+
+
+==== Ozeanien-/Asienzone ====
+
+
+== Das Turnier ==
+
+
+=== Weltgruppe ===
+
+
+==== Achtelfinale ====
+
+
+==== Viertelfinale ====
+
+
+==== Halbfinale ====
+
+
+==== Finale ====
+
+
+=== Kontinentalgruppe I ===
+
+
+==== Amerikazone ====
+
+
+===== Erste Runde =====
+
+Ecuador, Uruguay und Kolumbien kamen per Freilos in die nächste Runde
+===== Zweite Runde =====
+
+Kolumbien und die Dominikanische Republik qualifizierten sich für die Weltgruppen-Relegation
+==== Europa-/Afrikazone ====
+
+
+===== Erste Runde =====
+
+Spanien, die Niederlande und die Ukraine kamen jeweils per Freilos in die nächste Runde
+===== Zweite Runde =====
+
+Russland, Polen, die Slowakei und die Niederlande qualifizierten sich für die Relegation zur Weltgruppe
+
+
+==== Ozeanien-/Asienzone ====
+
+
+===== Erste Runde =====
+
+Usbekistan und Indien kamen per Freilos in die nächste Runde
+===== Zweite Runde =====
+
+Usbekistan und Indien qualifizierten sich für die Relegation zur Weltgruppe
+
+
+=== Weltgruppen-Relegation ===
+
+
+== Siehe auch ==
+Fed Cup 2015
+
+
+== Weblinks ==
+Offizielle Website des Davis Cups
+Bamberg zaubert ist ein mehrtägiges internationales Straßen- und Varietéfestival in Bamberg
+Es wurde 1999 von den Zauberfreunden Bamberg, dem Ortszirkel des Magischen Zirkels von Deutschland durch das Mitglied Klaus Kühn und dem damaligen Citymanager Stefan Pruschwitz gegründet
+Seither findet Bamberg Zaubert jährlich am dritten Juli-Wochenende in der Innenstadt Bambergs statt
+000 Besuchern gehört Bamberg zaubert zu den größten eintrittsfreien Straßen- und Kleinkunstfestivals in Deutschland
+Alle Besucher erhalten so, unabhängig ihrer finanziellen Verhältnisse, die Möglichkeit, die Vielfalt von Straßenkunst und Varietédarbietungen kennenzulernen
+Höhepunkt der Festivaltage sind die Magischen Nächte, an denen die Highlights aus Zauberei, Artistik und Feuerkunst auf der Hauptbühne am Bamberger Maximiliansplatz aufgeführt werden
+Am frühen Nachmittag des Festivalsamstags steht mit der Nachwuchsshow die Förderung junger Artisten im Vordergrund
+== Weblinks ==
+Bamberg zaubert Veranstaltungswebsite
+Stadtmarketing Bamberg weitere Informationen zum Veranstalter
+Dreikirchen ist eine Ortsgemeinde im Westerwaldkreis in Rheinland-Pfalz
+Sie gehört der Verbandsgemeinde Wallmerod an
+== Geographie ==
+Dreikirchen liegt in der zum Westerwald gehörenden Montabaurer Senke
+Die Gemeinde gliedert sich in die Ortsteile Oberhausen mit dem Hof Bornshahn und Pütschbach mit dem Haus Wolf
+== Geschichte ==
+Die heutige Ortsgemeinde Dreikirchen ist am 7
+Juni 1969 aus den vorher selbständigen und aufgelösten Gemeinden Oberhausen (damals 226 Einwohner) und Pütschbach (485 Einwohner) neu gebildet worden
+Der neue Ortsname „Dreikirchen“ wurde durch Beschluss der beiden ehemaligen Gemeinderäte gefunden
+Grundlage hierfür waren die im Ortskern von Pütschbach gelegene, im Jahre 1292 erstmals urkundlich erwähnte Wehrkirche, die Kapelle in Oberhausen und die 1957 erbaute neue Pfarrkirche beider Orte
+Die Vorgängerorte wurden um das Jahr 1290 erstmals erwähnt
+Beide gehörten kirchlich und als Verwaltungseinheit zum Kirchspiel Hundsangen
+Pütschbach besaß spätestens 1448 eine Kirche
+1925 wurde die dortige Kirche St
+Antonius und Barbara zur Pfarrvikarie erhöht und die Kirche St
+Bevölkerungsentwicklung
+Die Entwicklung der Einwohnerzahl bezogen auf das heutige Gebiet der Gemeinde Dreikirchen, die Werte von 1871 bis 1987 beruhen auf Volkszählungen:
+
+
+== Politik ==
+
+
+=== Bürgermeister ===
+Volker Hannappel wurde 2014 Ortsbürgermeister von Dreikirchen
+Mai 2019 wurde er mit einem Stimmenanteil von 78,85 % für weitere fünf Jahre in seinem Amt bestätigt
+Er wurde im Juni 2024 wiedergewählt
+Hannappels Vorgänger waren Rainer Zimmermann (Ortsbürgermeister 2004–2014) und Ansgar Ortseifen (1992–2004)
+=== Wappen ===
+
+
+== Kultur und Sehenswürdigkeiten ==
+
+
+=== Bauwerke ===
+Die Pütschbacher Wehrkirche verfügt über einen Turm aus dem 12
+Der Rest des Baus stammt aus dem 13
+Sehenswert ist außerdem ein um 1700 erbautes Fachwerk-Bauernhaus, das nach einer Renovierung heute wieder als Wohnhaus genutzt wird
+== Wirtschaft und Infrastruktur ==
+
+
+=== Gemeinde ===
+Dreikirchen ist eine Wohngemeinde mit gewerblicher Ansiedlung
+Seit 1994 ist Dreikirchen Schwerpunktgemeinde im Rahmen der Dorferneuerung
+Etliche Verbesserungsmaßnahmen konnten bereits umgesetzt werden; einige stehen in der Planungsphase, andere werden derzeit realisiert
+=== Verkehr ===
+Die nächste Autobahnanschlussstelle ist Diez an der A 3 Köln–Frankfurt am Main, etwa fünf Kilometer entfernt
+Dreikirchen verfügt über einen Haltepunkt an der Bahnstrecke Limburg-Staffel–Siershahn (Unterwesterwaldbahn), auf welcher Regionalzüge der Hessischen Landesbahn HLB, Bereich Dreiländerbahn als RB29 nach dem Rheinland-Pfalz-Takt täglich im Stundentakt verkehren
+Am Bahnhof Limburg (Lahn) besteht Anschluss an Regionalzüge in Richtung Frankfurt, Wiesbaden, Koblenz, Gießen/Fulda und Westerburg/Altenkirchen
+In Montabaur an der Schnellfahrstrecke Köln–Rhein/Main besteht Anschluss an die ICE in Richtung Köln und Frankfurt am Main sowie an Busse in Richtung Koblenz, Bad Ems, Westerburg, Rennerod, Hachenburg und Bad Marienberg
+Ebenso verkehren vor dem Bahnhof Montabaur Fernbusse in Richtung Frankfurt und Köln
+Busverbindungen bestehen ab Dreikirchen in Richtung Hadamar, Montabaur und Limburg an der Lahn
+== Literatur ==
+Hellmuth Gensicke: Die Vier Kirchspiele
+In: Nassauische Annalen Band 63, 1952, S
+== Weblinks ==
+
+Ortsgemeinde Dreikirchen auf den Seiten der Verbandsgemeinde Wallmerod
+Literatur über Dreikirchen in der Rheinland-Pfälzischen Landesbibliographie
+
+
+== Einzelnachweise ==
+Luka Tomić (serbisch-kyrillisch Лука Томић, * 21
+Mai 2007) ist ein serbischer Leichtathlet, der sich auf den Stabhochsprung spezialisiert hat
+== Sportliche Laufbahn ==
+Erste internationale Erfahrungen sammelte Luka Tomić im Jahr 2023, als er bei der 2
+Liga der Team-Europameisterschaft im Rahmen der Europaspiele in Chorzów mit übersprungenen 3,40 m den siebten Platz im B-Finale belegte
+Im Jahr darauf brachte er bei den U20-Balkan-Hallenmeisterschaften in Belgrad keine Höhe zustande und im Juni belegte er bei den U18-Balkan-Meisterschaften in Maribor mit 6,80 m den elften Platz im Weitsprung und siegte in 42,12 s mit der serbischen 4-mal-100-Meter-Staffel
+Anschließend wurde er bei den U18-Europameisterschaften in Banská Bystrica mit 6745 Punkten 17
+2025 belegte er bei den U20-Balkan-Hallenmeisterschaften in Sofia mit 4,72 m den vierten Platz im Stabhochsprung
+2024 wurde Tomić serbischer Meister im Stabhochsprung
+== Weblinks ==
+Luka Tomić in der Datenbank von World Athletics (englisch)
+Robert Robert Louis Francisque Bouharde (* 3
+Juni 1922 in Lyon; † 26
+Januar 2001 in Mougins) war ein französischer Rallyefahrer und Rundstrecken-Pilot
+== Karriere ==
+Er begann seine Motorsportkarriere Ende der 1950er-Jahre bei nationalen Rallyes in Frankreich
+1960 gab er sein Debüt beim 24-Stunden-Rennen von Le Mans und der Rallye Monte Carlo
+Da seine Versuche im Monopostosport Fuß zu fassen wenig Erfolg hatten – 1962 bestritt er einige Formel-2-Rennen auf einem Cooper T56 – fuhr er ab 1963 nur Sportwagenrennen und Rallyes
+Nach seinem Debüt 1961 war er in Le Mans weitere fünf Male am Start
+Die Rennen 1961, 1963 und 1964 bestritt er für das Team von René Bonnet, ab 1965 war er Werksfahrer bei Alpine
+Seine beste Platzierung für Bonnet war der 14
+Gesamtrang 1963, den er gemeinsam mit Bruno Basini im René Bonnet Aérodjet einfuhr
+Bei Alpine fuhr er die A110 bei Rallyes und die Alpine A210 bei Rundstreckenrennen
+In Le Mans war der zwölfte Rang 1966 die beste Gesamtplatzierung mit dem kleinen, aber schnellen Rennwagen
+Bouharde war ein umsichtiger und besonnener Rennfahrer, den seine Teamkollegen sehr schätzten
+== Statistik ==
+
+
+=== Le-Mans-Ergebnisse ===
+
+
+=== Einzelergebnisse in der Sportwagen-Weltmeisterschaft ===
+
+
+== Literatur ==
+Christian Moity, Jean-Marc Teissedre: 24 Stunden du Mans
+== Weblinks ==
+
+Robert Bouharde bei Racing Sports Cars
+Robert Bouharde bei 24-h-en-piste
+November 1901 in Kopenhagen; † 6
+Oktober 1987 in Horne) war eine dänische Fechterin
+== Leben ==
+Grete Heckscher nahm als eine von drei Däninnen 1924 an den Olympischen Spielen in Paris teil, wo sie im Teilnehmerfeld des erstmals ausgetragenen Einzelwettbewerbs im Florettfechten der Frauen stand
+Die erste Runde beendete sie ungeschlagen als Gruppenerste, im Halbfinale wurde sie Gruppenzweite hinter Gladys Davis
+In der Finalrunde erreichte sie hinter ihrer Landsfrau Ellen Osiier und Gladys Davis, gegen die sie jeweils verloren hatte, den dritten Platz und sicherte sich somit die Bronzemedaille
+== Weblinks ==
+Grete Heckscher in der Datenbank von Olympedia
+Der Höckler ist das südlichste Gebiet der Zürcher Allmend auf dem Gebiet von Leimbach
+== Lage ==
+Der Höckler ist hügeliges Gelände am linken Ufer der Sihl im Kreis 2 zwischen Leimbach und der Allmend Brunau
+Die Hänge ziehen sich zum Uetliberg hoch
+Im Norden liegt das Ostportal des Uetlibergtunnels
+== Geschichte ==
+Der Flurname Höckler ist 1448 erstmals urkundlich erwähnt
+Vermutlich stammt die Bezeichnung Höckler von einem ehemaligen Sitzplatz oder Gasthof entlang des Medikerweges, der zum Gut Medikon auf dem Albis führt
+Das schweizerdeutsche Wort hocken oder höckle findet noch heute Verwendung in der mundartlichen Bedeutung für ein gemütliches Zusammensitzen
+Auf dem Gebiet stand früher das Landgut Höckler
+Es gehörte im Mittelalter der Familie von Manesse, später dem Kloster Selnau
+Nach dessen Aufhebung ging der Höckler in den Besitz des Spitals Zürich über
+Jahrhunderts kaufte es der Privatmann Meier samt der Gaststätte, welche zu jener Zeit ein beliebtes Ausflugsziel war
+Die Allmend lag damals noch rund eine Stunde Fussmarsch ausserhalb der Stadt Zürich und war nur mit einer Fähre über die Sihl auf Höhe der heutigen Sihlcity zu erreichen
+Erst später wurde eine Holzbrücke gebaut
+Der Ausflug wurde oftmals mit einem Spaziergang zu den Ruinen der nahen Burg Manegg verbunden
+Das Höcklergut umfasste eine ausgedehnte Gartenanlage mit einem Goldfischteich und einer Aussichtsterrasse am Waldrand mit einer markanten Blutbuche
+1873 kaufte die Stadt das Höcklergut
+Im Zuge der verstärkten Nutzung des Gebietes als Schiessplatz wurde das Gut abgebrochen
+Nach dem Umzug der Kaserne Zürich ins Reppischtal wurde der Höckler im Jahr 1987 als Waffenplatz aufgegeben
+Jedoch sind auch heute noch grosse Teile des Höcklers stark mit Schwermetallen belastet und abgesperrt
+An die Tradition des alten Obstgartens des früheren Landgutes Höckler knüpft die Wiederanpflanzungsaktion seltener Hochstamm-Sorten von Grün Stadt Zürich an
+Im März 2006 pflanzten Schulkinder die ersten 60 Apfelbäume und trugen so zur Verjüngung des über 200 Jahre alten Obstgartens bei
+Seit 1995 besteht auf dem Höckler die Naturschule Allmend, die Naturerfahrungen und Naturvertrautheit vermittelt
+Im Frühjahr 2006 erhielt sie einen Neubau
+== Literatur ==
+Herrmann Trachsler: Der Höckler und das Schlösschen Maneck
+Ein Andenken für alle Freunde und Besucher dieser reizenden Lustörter, mit sechs Kupfern gezeichnet von Weymann, in aqua tinta geäzt von Hegi und Siegfried
+== Weblinks ==
+Website der Naturschulen Zürich
+
+
+== Einzelnachweise ==
+Die Gmina wiejska Garwolin [gar'vɔlin] ist eine selbständige Landgemeinde in Polen im Powiat Garwoliński in der Woiwodschaft Masowien
+Ihr Sitz befindet sich in der Stadt Garwolin
+Die Landgemeinde, zu der die Stadt Garwolin selbst nicht gehört, hat eine Fläche von 136 km², auf der (Stand: 31
+== Geographie ==
+
+Das Gebiet der Landgemeinde umgibt die Stadt Garwolin an allen Seiten
+== Geschichte ==
+Von 1975 bis 1998 gehörte die Landgemeinde zur Woiwodschaft Siedlce
+== Gemeindegliederung ==
+Die Landgemeinde Garwolin besteht aus 27 Schulzenämtern:
+
+Weitere Orte der Landgemeinde sind Henryczyn, Huta Garwolińska, Marianów und Siedem Mórg
+== Weblinks ==
+
+Website der Landgemeinde (polnisch)
+
+
+== Einzelnachweise ==
+Als Elfringhauser Schweiz wird der Teil der Bergisch-Märkischen Hügellandschaft südlich der Ruhr bei Elfringhausen zwischen Hattingen, Wuppertal, Sprockhövel und Velbert bezeichnet
+Zwei tiefe Bachtäler, das Deilbachtal und das Felderbachtal, werden von teilweise 300 m hohen Erhebungen eingerahmt, zahlreiche Siepen führen von den Berghängen in die Täler
+Das Gebiet, auch „Hattinger Hügelland“ genannt, zählt westlich des Deilbachs (Teilbach, d
+Grenzbach) zur Mittelgebirgsregion Bergisches Land, während der Bereich östlich davon dem märkischen Teil Westfalens angehört
+Das Hügelland dient neben der Land- und Forstwirtschaft vor allem als Erholungsgebiet
+Als beliebter Ausgangspunkt für viele Wanderwege gilt der erstmals 1482 urkundlich erwähnte Bergerhof südlich von Hattingen
+Geologisch ist das Gebiet von Interesse, weil am südöstlichen Rand einige der südlichsten Schichten des Steinkohlegebirges ausstreichen und sich in der Gegend die ältesten urkundlich erwähnten Steinkohlebergwerke des Ruhrgebietes überhaupt befanden
+Bei der ehemaligen Schachtanlage Niederheide der Zeche Alte Haase befindet sich in der Elfringhauser Schweiz die südlichste Zechenkolonie des Ruhrgebietes
+Zu den Erhebungen zählen Schieferberg, Winterberg (315 m), Kottenberg, Sahlberg, Hölterberg, Eberg, Juttermannsberg (273 m), Immelberg, Ottoplatte, Hordtberg (245 m), Hansberg (228 m), Homberg, Nonnenberg, Kahlenberg und Zipperberg
+Siehe auch: Schweiz (Landschaftsbezeichnung) und Märkisches Schichtrippenland
+== Literatur ==
+Uli Auffermann: Im Hügelland – Elfringhauser Schweiz & Umgebung
+Uli Auffermann: Elfringhauser Schweiz – Landschaft zum Wohlfühlen
+== Weblinks ==
+
+Elfringhauser Schweiz im Internet (Deutsche-schweizen
+de)
+Elfringhauser Schweiz im Internet (Bürger-, Heimat- und Verkehrsverein Elfringhausen)
+Internetpräsenz zum Hattinger Hügelland: Infos und Bilder zur Elfringhauser Schweiz und Umgebung
+Radarvorpostenunterseeboote sind Unterseeboote, die mit einer leistungsstarken Radaranlage ausgerüstet sind und damit eine größere Überwasserflotte, insbesondere Flugzeugträgerkampfgruppen, unterstützen können
+In der US Navy wurden sie als Ship Submersible Radar (SSR) bzw
+, wenn mit einem Nuklearantrieb ausgerüstet, als Ship Submersible Radar Nuclear (SSRN) klassifiziert
+In der Zeit des Zweiten Weltkrieges und des frühen Kalten Kriegs war die Reichweite von Radaranlagen noch sehr begrenzt
+Um die Erkennungsreichweite eines Flottenverbands auszudehnen, setzte man kleinere Schiffe mit starken Radaranlagen ein, die als Radarvorposten (radar picket) dienten
+Dies hatte, neben der Reichweitenvergrößerung, den zusätzlichen Vorteil, dass damit das Problem gelöst wurde, dass ein aktiver Radarsender von einem Gegner aus sehr großer Entfernung erkannt werden kann
+Die Aufmerksamkeit wurde auf die einzelnen Vorposten gelenkt, sodass der Hauptverband unentdeckt bleiben konnte
+Um nun die Vorposten selbst vor Angriffen zu schützen, entwickelte sich insbesondere in der US Navy das Konzept des Radarvorpostenunterseeboots (SSR)
+Diese sollten sich der Entdeckung und einem eventuellen gegnerischen Angriff durch Tauchen entziehen können
+Zunächst wurden konventionelle Unterseeboote im Rahmen eines Programms namens Migraine für diese Aufgabe umgerüstet
+Mitte der 1950er Jahre baute die US Navy außerdem mit den beiden Booten der Sailfish-Klasse, Sailfish und Salmon, speziell für diese Aufgabe entworfene Unterseeboote
+Es stellte sich heraus, dass konventionell angetriebene Unterseeboote für den Einsatz zusammen mit schnellen Flugzeugträgergruppen jedoch zu langsam waren
+Deswegen entwarf man die leistungsfähigere Triton-Klasse mit Kernenergieantrieb (SSRN)
+Von den geplanten fünf Booten wurde jedoch letztendlich nur die USS Triton gebaut
+Ende der 1950er Jahre war das Konzept der Radarvorpostenunterseeboote durch die Einführung von trägergestützten Flugzeugen mit leistungsfähigem Aufklärungsradar – insbesondere Grumman E-1 Tracer und deren Nachfolgerin E-2 Hawkeye –, obsolet geworden und wurde aufgegeben
+== Radarvorpostenunterseeboote ==
+
+
+=== United States Navy ===
+Balao-Klasse (Klasse als Jagdunterseeboote gebaut, Boot individuell im Programm Migraine I umgerüstet, später wieder zurückgebaut)
+USS Burrfish (SSR-312)
+Gato-Klasse (Klasse als Jagdunterseeboote gebaut, Boote individuell als Programm Migraine III umgerüstet, später meist wieder zurückgebaut)
+USS Pompon (SSR-267)
+USS Rasher (SSR-269)
+USS Raton (SSR-270)
+USS Ray (SSR-271)
+USS Redfin (SSR-272)
+USS Rock (SSR-274)
+Sailfish-Klasse (als SSR gebaut)
+USS Sailfish (SSR-572)
+USS Salmon (SSR-573)
+Tench-Klasse (Klasse als Jagdunterseeboote gebaut, Boote individuell in den Programmen Migraine I & II umgerüstet, später meist wieder zurückgebaut)
+USS Requin (SSR-481)
+USS Spinax (SSR-489)
+USS Tigrone (SSR-419)
+Triton-Klasse (als SSRN gebaut)
+USS Triton (SSRN-586)
+
+
+== Weblinks ==
+Edward C
+Radar Picket Submarines: Cold War Curiosities (Memento vom 15
+August 2009 im Internet Archive) auf navy
+November 2012)
+Übersicht über das Migraine-Programm auf http://guppysubmarinetribute
+Melanie Kretschmann (* 1975 in Hamburg) ist eine deutsche Theaterschauspielerin und Regisseurin
+Seit der Spielzeit 2013/14 ist sie Mitglied des Ensembles des Schauspiel Köln
+== Leben ==
+Melanie Kretschmann studierte nach dem Abitur Sozialpädagogik
+Sie erhielt zwischen 1994 und 1996 eine Ausbildung im klassischen und zeitgenössischen Tanz in Hamburg und an der Theaterschule Lassaàd-LeCoq in Brüssel und studierte anschließend bis 1998 an der Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig
+Sie wirkte 1997 bei dem Stück Sechs hässliche Töchter auf Kampnagel Hamburg und bei den Wiener Festwochen mit
+Es folgten Engagements in der Baracke Berlin, den Wiener Festwochen und dem Schauspiel Frankfurt
+Von 2000 bis 2003 war sie festes Ensemblemitglied am Theater Basel
+In den Jahren 2004–2007 arbeitete sie als freie Schauspielerin am Deutschen Theater Berlin, sowie am Maxim Gorki Theater Berlin und Düsseldorfer Schauspielhaus
+Ab 2007 war Melanie Kretschmann Ensemble des Wiener Burgtheaters
+Sie gastierte regelmäßig auf Kampnagel Hamburg, der Garage X in Wien, dem Hebbel am Ufer Berlin und dem Schauspielhaus Wien
+Neben ihrer Tätigkeit auf der Bühne steht Kretschmann auch vor der Kamera
+2009 spielte sie an der Seite von Helmut Berger im Spielfilm Blutsfreundschaft
+Seit der Spielzeit 2013/14 ist sie Ensemblemitglied am Schauspiel Köln und freie Regisseurin
+Melanie Kretschmann ist mit dem Regisseur und Kölner Intendanten Stefan Bachmann verheiratet
+Das Paar hat drei Söhne und eine Tochter
+Sie ist die Cousine der Schauspieler Marek Harloff und Fabian Harloff
+Aufsehen erregten im Jahr 2018 Mobbing-Vorwürfe gegen Kretschmann
+Laut Schauspielern soll sie unter Deckung ihres Ehemannes eine belastende Arbeitsatmosphäre am Kölner Theater verschuldet haben, was sie indes zurückwies
+Neben ihrer Tätigkeit als Schauspielerin im Schauspiel Köln leitet sie das Projekt CARLsGARTEN, in dessen Rahmen Urbaner Gartenbau im Carlswerk in Köln-Mülheim direkt neben dem sogenannten „Depot“ des Schauspielhauses betrieben wird
+Melanie Kretschmann ist seit 2015 Mitglied der Deutschen Akademie der Darstellenden Künste
+== Filmografie ==
+1999: Wohin (Kurzfilm)
+2000: Die Rettungsflieger, (TV-Serie), ZDF
+2006: Kobold (Kurzfilm), Regie: Antje Majewski
+2007: Dekonditionierung, Regie: Antje Majewski
+2009: Blutsfreundschaft, Regie: Peter Kern
+2010: Kottan ermittelt: Rien ne va plus, Regie: Peter Patzak
+2010: Literarisches Quartett
+2012: Das ist es was immer mit den Menschen los und mit den Tieren nicht los ist
+2012: Diamantenfieber oder Kauf dir einen bunten Luftballon, Regie: Peter Kern
+2013: Ein kleiner Augenblick des Glücks, Regie: Thomas Moritz Helm
+
+
+== Theater (Auszug) ==
+Sechs Hässliche Töchter inc
+(Rolle: Adela) – Regie: Ute Rauwald 1998
+Killed by P (Rolle: Penthesilea) – Regie: Ute Rauwald
+Showdown Ifigenie – Regie: Ute Rauwald im Thalia Theater Hamburg 1999
+Auf der Greifswalderstraße von Roland Schimmelpfennig – Regie: Jürgen Gosch im Deutsches Theater Berlin
+Liebe Kannibalen von Jean-Luc Godard – Regie: Stefan Bachmann im Thalia Theater
+Hörst Du mein heimliches Rufen – Regie: Stefan Bachmann im Schauspielhaus Düsseldorf
+Das Elend der Welt – Regie: Thomas Kruppa im Schauspielhaus Düsseldorf
+Die schmutzigen Hände – Regie: Nicolas Stemann am Theater Basel
+Dantons Tod – Regie: Nicolas Stemann am Theater Basel
+Franziska von Frank Wedekind – Regie: Stefan Bachmann am Theater Basel
+Der Fall Esra, basierend auf dem Roman Esra von Maxim Biller – Regie: Angela Richter auf Kampnagel in Hamburg
+Berghain Boogie Woogie – Regie: Angela Richter im Hebbel-Theater
+Vive la crise! – Regie: Angela Richter im Garage X
+Leiwand Empire – Regie: Angela Richter im Garage X
+Liebe Deinen Untergang – Regie: Angela Richter im Theater Oberhausen
+Assassinate Assange/Assassinate Assange Reloaded (als Julian Assange und Anna Ardin), wobei sie maßgeblich mit Regisseurin Angela Richter an der Gestaltung zusammengearbeitet hat
+Brain and Beauty (als Die Patientin) – Regie: Angela Richter am Schauspiel Köln
+Winterreise (in insgesamt sechs verschiedenen Rollen) von Elfriede Jelinek – Regie: Stefan Bachmann am Akademietheater Wien
+Lorenzaccio (als Marchesa Cibo, Salviati, Pferd und Gast) – Regie: Stefan Bachmann
+Trilogie des Wiedersehens (als Marlies und Malerin) von Botho Strauß – Regie: Stefan Bachmann
+Verbrennungen (als Jeanne) am Schauspiel Köln
+Der Streik (als Dagny Taggert) nach dem Roman von Ayn Rand – Regie: Stefan Bachmann am Schauspiel Köln
+Genesis (als Lots Tochter/Rebecca/Naftali) – Regie: Stefan Bachmann am Schauspiel Köln
+Helenes Fahrt in den Himmel – Regie: Jens Albinus am Schauspiel Köln
+Habe die Ehre von Ibrahim Amir – Regie: Stefan Bachmann am Schauspiel Köln
+The Shadow (als Der Schatten) SchauspielKoeln / Kampnagel – Regie: Adam Traynor/Chilly Gonzales
+Parzival (Rolle: Herzeloyde / Conduiramour / Kundri) – Regie: Stefan Bachmann am Schauspiel Köln
+Wie es Euch gefällt (Rolle: Celia) – Regie: Roger Vontobel
+Geschichten aus dem Wiener Wald (Rolle: Valerie) – Regie: Stefan Bachmann am Schauspiel Köln
+Umbettung (Rolle: Katie) – Regie: Jens Albinus am Schauspiel Köln
+Geächtet (Rolle: Emily) von Ayad Akhtar – Regie: Stefan Bachmann am Schauspiel Köln
+Tyll (Rolle: Elisabeth Stuart u
+) Uraufführung nach dem Roman von Daniel Kehlmann – Regie: Stefan Bachmann am Schauspiel Köln
+Ein grüner Junge (Rolle: Katerina Nikolajewna und Mutter Sofjanach) nach Dostojewski – Regie: Frank Castorf am Schauspiel Köln
+Medea (Rolle: Medea) nach Hans Henny Jahnn – Regie: Robert Borgmann am Schauspiel Köln
+Vögel von Wajdi Mouawads (Rolle Norah Zimmermann) – Regie: Stefan Bachmann
+Aus dem bürgerlichen Heldenleben – Regie: Frank Castorf nach Romanen von Carl Sternheim am Schauspiel Köln
+Rollen Louise Maske, Sophie Maske u
+Don Karlos von Friedrich Schiller (Rolle: Elisabeth von Valois) am Schauspiel Köln, ausgestrahlt vom WDR – Regie: Jürgen Flimm
+Reich des Todes von Rainald Goetz am D’haus und SchauspielKoeln (Rolle: Pinsk) – Regie: Stefan Bachmann
+Der endlose Sommer von Madame Nielsen (Rolle: Die Frau) – Regie: Lucia Biehler am Schauspiel Köln Juni 2021
+Der Eingebildete Kranke von Molière (Rolle: Toinette) – Regie: Stefan Bachmann
+Johann Holtrop von Rainald Goetz (Rolle: Johann Holtrop) – Regie: Stefan Bachmann, Koproduktion SchauspielKoeln und Düsseldorfer Schauspielhaus
+Eigentum „Let`s face it we`re fucked“ von Thomas Köck – Regie: Marie Bues Uraufführung 29
+September 2023
+„Akins Traum vom osmanischen Reich“ Uraufführung von Akin Emanuel Şipal (Rollen: Traum/Edith/Safiye)- Regie: Stefan Bachmann, SchauspielKoeln
+
+
+== Inszenierungen ==
+2017 Wir wollen Plankton sein Uraufführung Text von Julian Pörksen am Schauspiel Köln
+2018 Rot von John Logan Deutsch von Corinna Brocher, Musik von Gregor Schwellenbach am Schauspiel Köln in Zusammenarbeit mit dem Museum Ludwig
+2019 Kinder der Nacht nach dem Roman Les Enfantes Terribles von Jean Cocteau nach einer Bühnenfassung von Helene Hegemann
+
+
+== Sonstiges ==
+2014 Sprecherin in dem Hörspiel L
+Blues von Tom Noga
+1992 Darstellerin in Douglas Gordon Monument to X 1992
+
+
+== Auszeichnungen ==
+Nestroy-Theaterpreis Beste deutschsprachige Aufführung für Winterreise von Elfriede Jelinek, inszeniert von Stefan Bachmann, Akademietheater
+2012 Vienna Actor Award
+2023 Nominierung für Deutscher Theaterpreis Der Faust für Johann Holtrop, Schauspiel Köln und D’haus
+
+
+== Weblinks ==
+
+Melanie Kretschmann bei IMDb
+
+
+== Einzelnachweise ==
+Mai 1782 in Stockholm; † 26
+Juni 1854 ebenda) war ein schwedischer Maler und Zeichner
